@@ -1,0 +1,3 @@
+War is traditionally played between two players, but can be expanded for up to four players. 
+Our vision is as follows:
+The player faces off against one to three computer-controlled opponents. The deck is split as evenly as possible, with each player receiving a specific number of face-down cards. Each side flips the top card of their deck, and whichever player has the higher card wins. If the highest cards match, then the players with the highest cards flip their next cards; repeat until one card is higher, in which case the winner takes all flipped cards. The game ends when one person is left with every card, making them the winner.
